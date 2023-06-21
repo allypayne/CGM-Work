@@ -7,8 +7,6 @@ This notebook plots the comparative results for statistical significance of H I 
 
 This specific notebook plots the statistical significance of column density for the detections of each ion at 3 different virial radius limits: 0.5,1, and 2. Look for the pink text in this notbook to change the "column" parameter and compare statistical significance of other parameters in the data. I have done so already for: N_comps, sqrtM, v_span, and column density.
 
-This specific notebook tests the statistical significance of our results with the ...
-
 ## [Crazyplot](/crazyplot.ipynb)
 
 This is the plot I created to display a triple subplot of: $\sqrt{M}$ values for H I and O VI and the corresponding Kaplan Meier Plot.
