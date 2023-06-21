@@ -13,4 +13,4 @@ This specific notebook tests the statistical significance of our results with th
 ## Crazyplot
 Accest it [here](/crazyplot.ipynb)
 
-This is the plot I created to display a triple subplot of: $sqrt{M}$ values for H I and O VI and the corresponding Kaplan Meier Plot.
+This is the plot I created to display a triple subplot of: $\sqrt{M}$ values for H I and O VI and the corresponding Kaplan Meier Plot.
