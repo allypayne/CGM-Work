@@ -11,7 +11,10 @@ This specific notebook plots the statistical significance of column density for 
 
 This is the plot I created to display a triple subplot of: $\sqrt{M}$ values for H I and O VI and the corresponding Kaplan Meier Plot.
 
-## [Bordoloi_plot.py](/bordoloi_plot.py)
+## [bordoloi_plot.py](/bordoloi_plot.py)
 This is the code I used to create binned plots of our data. It can be used in combination with "detect" (on my github as well) to plot H I and O VI data and compare results between the polar and disk regions. The plots are intended to recreate figure 8 in the Bordoloi et al. 2011 study on Mg II and will plot both the binned data and the entire data set to the right (for reference).
 - Use bordoloi_plot_3 function if you want 3 binned data points.
 - Use bordoloi_plot_4 function if you want 4 binned data points.
+
+## [Bordoloi_plot_example.ipynb](/Bordoloi_plot_example.ipynb)
+Example notebook with how I used bordoloi_plot.py
