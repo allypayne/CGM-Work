@@ -1,3 +1,9 @@
+#                          ******************************************
+# ~~~~~~~~~~~~~~~~~~~~~~~~ ALLY'S CODE FOR CREATING BINNED DATA PLOTS ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#                          ******************************************
+# created June 23 2023
+
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
